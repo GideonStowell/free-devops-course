@@ -31,6 +31,8 @@ By automating routine tasks, such as testing and deployment, organizations can s
 ### Sharing 🫂️
 Sharing is the final component of the CAMS model. By sharing knowledge and information across teams, organizations can improve collaboration and break down silos. This includes sharing information about best practices, lessons learned, and other key insights.
 
+When DevOps team understand and implement these principles, the software engineering organization is better setup for success in delivering and maintaining the product. 
+
 ## Exercises 🏋️
 Login to [Linkedin.com](http://linkedin.com) and search for open DevOps Engineering positions. Try to answer the following questions by reading the job descriptions and requirements:
 
