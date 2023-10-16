@@ -6,4 +6,4 @@ The work involves many different technologies and skills; and you will rarely wo
 
 ### Want to learn more?  [Check out the Full Course!](https://blog.stowellcrew.com/Getting-Started-in-DevOps-c84d8a7aa462487cb81c7963cb16d76c)
 
-The full course includes a deep dive into topics like Infrastructure as Code, Configuration Management, Scripting, Containerization, Databases and more! Each chapter includes exercises to gain hands-on experience with the common tools in each DevOps Engineer's toolbox
+The full course includes a deep dive into topics like Infrastructure as Code, Configuration Management, Scripting, Containerization, Databases and more! Each chapter includes exercises to gain hands-on experience with the common tools in each DevOps Engineer's toolbox. Get access to the full course [here](https://buy.stripe.com/14kg2hg897a9aFGcMM).
