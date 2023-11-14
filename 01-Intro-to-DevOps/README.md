@@ -26,7 +26,7 @@ The culture of an engineering organization is essential for DevOps success. The 
 By automating routine tasks, such as testing and deployment, organizations can speed up their development and deployment processes. This allows for quicker feedback and iteration, leading to better software quality.
 
 ### Measurement 📏️
-By automating routine tasks, such as testing and deployment, organizations can speed up their development and deployment processes. This allows for quicker feedback and iteration, leading to better software quality.
+This includes measuring performance, user experience, and other key metrics. By measuring these metrics, organizations can identify areas for improvement and make data-driven decisions. Without insight into how software is performing through accurate metrics, there is no way to know how it can be improved, other than simply guessing. It is also useful to collect metrics about your team, not just the software. For example, exactly how many outage events have happened or how many external team requests were serviced in a given time frame. These provide context and evidence when trying to make important decisions. 
 
 ### Sharing 🫂️
 Sharing is the final component of the CAMS model. By sharing knowledge and information across teams, organizations can improve collaboration and break down silos. This includes sharing information about best practices, lessons learned, and other key insights.
